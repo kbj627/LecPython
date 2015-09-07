@@ -13,6 +13,7 @@
 #c = ['life', 'is', 'too', 'short']
 #f = b + c
 #print(b + c)
+#print(c * 3)
 
 #program exam 3
 #guest = ['a','b','c','d']
@@ -63,20 +64,36 @@
 #guests = ['a','b','c','d']
 #for steps in range(4) :
 #    print(guests[steps])
-
 #nEntries = len(guests)
 #for steps in range(nEntries) :
 #    print(guests[steps])
 #print(nEntries)
-
 #for guest in guests :
 #    print(guest)
 #print(guest)
 
-score = [85, 62, 63, 45, 90, 15, 30, 25, 60, 50]
-score.sort();
+#program exam 6
+#score = [85, 62, 63, 45, 90, 15, 30, 25, 60, 50]
+#score.sort();
+#print(score)
+#score.reverse();
+#print(score)
+#print('top5 = ', score[0:5])
+
+#program exam 7
+#data = ['a', 'b', 'c', ['abcd', 'efg', '한글']]
+#for steps in data :
+#    if isinstance(steps, list) :
+#        for step in steps :
+#            print(step)
+#    else :
+#        print(steps)
+
+#program exam 8
+score = [85, 62, 63, 45, 90]
+score.extend([50,60])
 print(score)
-score.reverse();
+score = [85, 62, 63, 45, 90]
+score.append([50,60])
 print(score)
-top5 = score[0:5]
-print('top5 = ', top5)
+# append와 다른점 : append는 리스트 형태로 붙이고, extend는 병합한다.
