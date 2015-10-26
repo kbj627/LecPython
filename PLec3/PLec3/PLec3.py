@@ -1,9 +1,11 @@
 ﻿#program exam 1
 #dic1 = {}
-#dic2 = dict()
+#dic2 = dict() #새로운 빈 directory
 #dic = {'name':'pey', 'phone':'0119993323', 'birth':'1118'}
 #a = {1:'hi'}
 #b = {'a':[1,2,3]}
+#print(a[1])
+#print(b['a'])
 #print(dic['name'])
 
 #program exam 2

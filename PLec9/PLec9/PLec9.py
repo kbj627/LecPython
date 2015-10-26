@@ -25,7 +25,7 @@
 
 #program exam 5
 #print(list(map(lambda a: a*2, [1,2,3,4])))
-#print(map(lambda a: a*2, [1,2,3,4]))
+#print(list(filter(lambda a: a*2, [1,2,3,4])))
 
 
 #program exam 6
@@ -49,9 +49,11 @@
 #program exam 9
 dic = {'홍길동' : [80, 70, 60, 92],
         '김길동' : [24, 35, 18, 10],
-        '고길동' : [10, 20, 8 ,5] }
+        '고길동' : [50, 20, 8 ,5] }
 
 for item in dic.keys():
     dic[item].sort()
     
-print(sorted(dic.items())) #정렬된 dic을 출력한다.
+def k(x):
+    return x[0]
+print(sorted(dic.items(), key = k)) #정렬된 dic을 출력한다.

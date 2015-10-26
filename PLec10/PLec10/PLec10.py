@@ -50,6 +50,7 @@
 #import shutil
 
 #check = True
+
 #for (path, dir, files) in list(os.walk('.')):  #os.getcwd(), '.'는 같은 뜻
 #    for d in dir:
 #        if d == 'sample':
@@ -159,7 +160,7 @@
 
 
 #program exam 14
-import webbrowser
-url = 'http://google.com'
-webbrowser.open_new_tab(url)
-webbrowser.open_new(url)
+#import webbrowser
+#url = 'http://google.com'
+#webbrowser.open_new_tab(url)
+#webbrowser.open_new(url)

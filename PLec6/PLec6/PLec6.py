@@ -84,6 +84,7 @@ class movie :
 
     def __init__(self, title, director) :
         movie.count += 1
+        self.count += 1
         self.title = title
         self.director = director
         print(self.title, ' 생성자 호출')
@@ -110,3 +111,6 @@ m5 = movie('a', 'b')
 
 movie.showCount1()
 movie.showCount2()
+m1.showCount1()
+m1.showCount2()
+print(m1.__class__.title)

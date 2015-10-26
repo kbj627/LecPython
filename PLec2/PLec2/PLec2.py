@@ -19,7 +19,7 @@
 #guest = ['a','b','c','d']
 #guest[0] = 'greenjoa'
 #guest[1] = ['greenjoa1','greenjoa2']
-#guest[2:3] = ['greenjoa1','greenjoa2']
+#guest[2:3] = ['greenjoa2','greenjoa3']
 #print(guest)
 
 #guest = ['a','b','c','d']

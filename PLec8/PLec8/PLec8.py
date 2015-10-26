@@ -59,18 +59,18 @@
 
 
 #program exam 3
-#import sys
-#number1 = float(input("enter a number : "))
-#number2 = float(input("enter a number : "))
+import sys
+number1 = float(input("enter a number : "))
+number2 = float(input("enter a number : "))
 
-#try :
-#    result = number1 / number2
-#    print(result)
-#except ZeroDivisionError as e:
-#    print(e)
-#    print("The answer is infinity")
-#except :
-#    error = sys.exc_info()[0]
-#    print(error)
-#finally:
-#    print("Done")
+try :
+    result = number1 / number2
+    print(result)
+except ZeroDivisionError as e:
+    print(e)
+    print("The answer is infinity")
+except :
+    error = sys.exc_info()[0]
+    print(error)
+finally:
+    print("Done")
