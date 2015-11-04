@@ -40,14 +40,14 @@
 
 
 #program exam 4
-#import os
-#import re
-#import glob
+import os
+import re
+import glob
 
-#os.chdir('c:/')
-#p = re.compile('.*[.](?!bat$|exe$).*$')
-#l = glob.glob('*')
-#print(l)
+os.chdir('c:/')
+p = re.compile('.*[.](?!bat$|exe$).*$')
+l = glob.glob('*')
+print(l)
 
 
 #program exam 5
