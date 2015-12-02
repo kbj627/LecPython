@@ -1,0 +1,15 @@
+C:\Users\KTW\Documents\GitHub\LecPython\testFlaskWeb\testFlaskWeb\bin\Microsoft.PythonTools.WebRole.dll
+C:\Users\KTW\Documents\GitHub\LecPython\testFlaskWeb\testFlaskWeb\obj\Debug\attach_server.py
+C:\Users\KTW\Documents\GitHub\LecPython\testFlaskWeb\testFlaskWeb\obj\Debug\visualstudio_py_debugger.py
+C:\Users\KTW\Documents\GitHub\LecPython\testFlaskWeb\testFlaskWeb\obj\Debug\visualstudio_py_repl.py
+C:\Users\KTW\Documents\GitHub\LecPython\testFlaskWeb\testFlaskWeb\obj\Debug\visualstudio_py_util.py
+C:\Users\KTW\Documents\GitHub\LecPython\testFlaskWeb\testFlaskWeb\obj\Debug\__init__.py
+C:\Users\KTW\Documents\GitHub\LecPython\testFlaskWeb\testFlaskWeb\obj\Debug\__main__.py
+C:\Users\KTW\Documents\GitHub\LecPython\testFlaskWeb\testFlaskWeb\bin\AzureSetup.cfg
+C:\Users\KTW\Documents\GitHub\LecPython\testFlaskWeb\testFlaskWeb\bin\Microsoft.PythonTools.AzureSetup.exe
+C:\Users\KTW\Documents\GitHub\LecPython\testFlaskWeb\testFlaskWeb\bin\Microsoft.PythonTools.AzureSetup.exe.config
+C:\Users\KTW\Documents\GitHub\LecPython\testFlaskWeb\testFlaskWeb\bin\wfastcgi.py
+C:\Users\KTW\Documents\GitHub\LecPython\testFlaskWeb\testFlaskWeb\obj\Debug\deployment-updated-orig-prefix.txt
+C:\Users\KTW\Documents\GitHub\LecPython\testFlaskWeb\testFlaskWeb\ptvs_virtualenv_proxy.py
+C:\Users\KTW\Documents\GitHub\LecPython\testFlaskWeb\testFlaskWeb\obj\Debug\web.config
+C:\Users\KTW\Documents\GitHub\LecPython\testFlaskWeb\testFlaskWeb\obj\Debug\web.debug.config
